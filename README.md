@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandin
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning GRPC, OOP design patterns use
+- 👀 I’m a Python developer
+- 🌱 I’m currently learning GRPC, microservices
 - 📫 How to reach me nandinosganbat@gmail.com
 
 <!---
